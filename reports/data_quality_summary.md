@@ -164,6 +164,16 @@ The following columns should be converted during preprocessing:
 | Missing AUM | 0 | Good |
 
 ---
+## AMFI Code Validation
+
+- Total AMFI codes in fund_master: 40
+- Total AMFI codes in nav_history: 40
+- Missing AMFI codes: 0
+- Validation Status: Passed
+
+All AMFI scheme codes present in the fund master dataset were found in the NAV history dataset, confirming referential integrity between the two datasets.
+
+---
 
 # Overall Assessment
 
